@@ -1,3 +1,5 @@
 # Ejemplo GIT 1
 
-Hola Mundo
+Hola Mundo.
+
+Este es otro enunciado.
